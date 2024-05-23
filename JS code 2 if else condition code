@@ -1,0 +1,11 @@
+//const dayOfWeek = 'Friday';
+
+//if (dayOfWeek === 'Monday') {
+ //   console.log("UGHH I HATE MONDAY")
+//} else if(dayOfWeek === 'Friday'){
+  //  console.log("Friday are decent, Especially after work!")
+//} else if(dayOfWeek === 'Saturday'){
+   // console.log("YAY I LOVE SATURDAYS")
+// } 
+
+
