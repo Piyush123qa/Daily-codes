@@ -1,0 +1,10 @@
+//const Password = prompt("please enter a new password");
+//if(Password.length >=6 ){
+//    if(Password.indexOf(' ') === -1 ) {
+ //       console.log("Valid Password")
+ //   } else{
+ //       console.log("Password cannot contain spaces!")
+ //   }
+//} else{
+   // console.log("Password too Short! Must be 6+ characters")
+//}
