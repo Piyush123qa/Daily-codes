@@ -1,0 +1,17 @@
+ques:-
+It's time to practice creating your own object literal.  Please define a new variable called product.It should be an object literal with the following properties:
+
+name:  set to the string "Gummy Bears".
+inStock: set to the boolean true.
+price: set to the numbers 1.99.
+flavors: set to an array of atleast three strings like ["graps","apple","cherry"]
+
+solution:-
+
+
+const product ={
+name: "Gummy Bears",
+inStock: true,
+price: 1.99,
+flavors: ["graps","apple","cherry"]
+}
