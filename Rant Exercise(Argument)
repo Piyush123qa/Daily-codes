@@ -1,0 +1,13 @@
+ques:-
+Define a function called Rant which accepts a string argument called message.The function should print out an uppercased version of message 3times (with 3 separate calls to console.log).For example,rant("I HATE BEETS)should print out:
+
+I HATE BEETS
+I HATE BEETS
+I HATE BEETS
+
+sol:-
+function rant(message){
+    console.log(message.toUpperCase());
+    console.log(message.toUpperCase());
+    console.log(message.toUpperCase());
+}
