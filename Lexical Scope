@@ -1,0 +1,15 @@
+//lexical Scope
+function bankRobbery(){
+   const heroes = ['Spiderman','Wolverine','Black Panther','Superwoman'];
+   function cryForHelp(){
+      let color = 'Purple';
+      function inner(){
+         for(let hero of heroes){
+            console.log('Please Help us,${Hero.toUpperCase)');
+         }
+      }
+      inner();
+
+   }
+   cryForHelp;
+} 
