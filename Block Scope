@@ -1,0 +1,12 @@
+//bloack Scope
+let radius = 8;
+if(radius>0){
+   const PI=3.14;
+   let circ = 2*PI*radius;
+}
+
+console.log(radius);//8
+console.log(PI);//Not Defined
+console.log(circ);//Not defined
+//Here it is not defined PI and circ because it is introduced inside the curly braces and in Block Scope 
+//if any variable is introduced inside curly braces that will be valid only till curly braces not outside that. 
